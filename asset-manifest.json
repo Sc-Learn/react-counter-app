@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-emoji-searcher/static/css/main.99820ef7.chunk.css",
-    "main.js": "/react-emoji-searcher/static/js/main.e7eea8fa.chunk.js",
-    "main.js.map": "/react-emoji-searcher/static/js/main.e7eea8fa.chunk.js.map",
-    "runtime-main.js": "/react-emoji-searcher/static/js/runtime-main.e45d6bcd.js",
-    "runtime-main.js.map": "/react-emoji-searcher/static/js/runtime-main.e45d6bcd.js.map",
-    "static/js/2.c7ccd63d.chunk.js": "/react-emoji-searcher/static/js/2.c7ccd63d.chunk.js",
-    "static/js/2.c7ccd63d.chunk.js.map": "/react-emoji-searcher/static/js/2.c7ccd63d.chunk.js.map",
-    "index.html": "/react-emoji-searcher/index.html",
-    "static/css/main.99820ef7.chunk.css.map": "/react-emoji-searcher/static/css/main.99820ef7.chunk.css.map",
-    "static/js/2.c7ccd63d.chunk.js.LICENSE.txt": "/react-emoji-searcher/static/js/2.c7ccd63d.chunk.js.LICENSE.txt",
-    "static/media/minus-icon.e6e703ff.svg": "/react-emoji-searcher/static/media/minus-icon.e6e703ff.svg",
-    "static/media/plus-icon.1b353b20.svg": "/react-emoji-searcher/static/media/plus-icon.1b353b20.svg",
-    "static/media/shopping-icon.7f4eb869.svg": "/react-emoji-searcher/static/media/shopping-icon.7f4eb869.svg"
+    "main.css": "/react-counter-app/static/css/main.99820ef7.chunk.css",
+    "main.js": "/react-counter-app/static/js/main.e7eea8fa.chunk.js",
+    "main.js.map": "/react-counter-app/static/js/main.e7eea8fa.chunk.js.map",
+    "runtime-main.js": "/react-counter-app/static/js/runtime-main.2c55f3f1.js",
+    "runtime-main.js.map": "/react-counter-app/static/js/runtime-main.2c55f3f1.js.map",
+    "static/js/2.c7ccd63d.chunk.js": "/react-counter-app/static/js/2.c7ccd63d.chunk.js",
+    "static/js/2.c7ccd63d.chunk.js.map": "/react-counter-app/static/js/2.c7ccd63d.chunk.js.map",
+    "index.html": "/react-counter-app/index.html",
+    "static/css/main.99820ef7.chunk.css.map": "/react-counter-app/static/css/main.99820ef7.chunk.css.map",
+    "static/js/2.c7ccd63d.chunk.js.LICENSE.txt": "/react-counter-app/static/js/2.c7ccd63d.chunk.js.LICENSE.txt",
+    "static/media/minus-icon.e6e703ff.svg": "/react-counter-app/static/media/minus-icon.e6e703ff.svg",
+    "static/media/plus-icon.1b353b20.svg": "/react-counter-app/static/media/plus-icon.1b353b20.svg",
+    "static/media/shopping-icon.7f4eb869.svg": "/react-counter-app/static/media/shopping-icon.7f4eb869.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e45d6bcd.js",
+    "static/js/runtime-main.2c55f3f1.js",
     "static/js/2.c7ccd63d.chunk.js",
     "static/css/main.99820ef7.chunk.css",
     "static/js/main.e7eea8fa.chunk.js"
